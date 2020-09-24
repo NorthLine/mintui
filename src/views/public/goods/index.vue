@@ -1,0 +1,76 @@
+<template>
+  <div>
+    <ul>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+      <li>goods</li>
+    </ul>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'index'
+}
+</script>
+
+<style scoped>
+
+</style>
