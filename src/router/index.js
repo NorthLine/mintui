@@ -12,27 +12,28 @@ export default new Router({
   mode: 'history',
   routes: [{
     path: '/',
+    name: '币币',
     redirect: '',
     component: layouts,
     children: [
       {
         path: '',
-        name: '首页',
+        name: '币币',
         component: indexPage
       },
       {
         path: 'goods',
-        name: '物品',
+        name: '购买',
         component: goods
       },
       {
         path: 'sales',
-        name: '卖货',
+        name: '出售',
         component: sales
       },
       {
         path: 'list',
-        name: '列表',
+        name: '成交记录',
         component: list
       },
       {
