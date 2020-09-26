@@ -29,4 +29,28 @@ body{
   box-sizing: border-box;
   background: #fff;
 }
+/*公用css*/
+.topBySelect{
+  padding-top: 45px;
+  text-align: center;
+}
+.TsheadBox{
+  height: 44px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  background: #fff;
+}
+.TshowListBox{
+  height: calc( 100% - 44px );
+  overflow: auto;
+}
+.showTxt{
+  text-align: center;
+  line-height: 44px;
+}
+.showTxt span{
+  margin-right: 15px;
+}
 </style>

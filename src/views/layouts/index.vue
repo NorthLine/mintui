@@ -85,7 +85,6 @@ export default {
 }
 .pageContent{
   height: calc( 100% - 52px );
-  overflow: auto;
 }
 .bottomBanner img{
   width: 30%;
